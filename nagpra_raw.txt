@@ -1,0 +1,651 @@
+Institution	Remains Not Made Available for Return	Remains Made Available for Return	% of Remains Made Available for Return
+Ohio History Connection	7,936	175	2%
+Illinois State Museum	5,801	1,522	21%
+Harvard Univ.	5,431	5,248	49%
+Univ. of California, Berkeley	4,794	7,189	60%
+Indiana Univ.	4,503	1,640	27%
+Univ. of Kentucky	3,787	978	21%
+Univ. of Tennessee, Knoxville	3,126	2,616	46%
+Univ. of Alabama	2,732	10,746	80%
+Univ. of Arizona	2,691	1,969	42%
+Univ. of Florida	2,620	377	13%
+Univ. of Missouri, Columbia	2,386	643	21%
+Dept. of Defense	2,001	5,375	73%
+Center for American Archeology, Kampsville Archeological Center	1,947	0	0%
+Dept. of the Interior	1,931	13,938	88%
+Univ. of Texas at Austin	1,898	341	15%
+American Museum of Natural History	1,773	1,773	50%
+Milwaukee Public Museum	1,557	116	7%
+Univ. of Oklahoma	1,477	2,395	62%
+Florida Dept. of State	1,448	79	5%
+Field Museum	1,288	594	32%
+State Museum of Pennsylvania	908	177	16%
+Southern Illinois Univ., Carbondale	846	0	0%
+Arizona State Univ.	786	35	4%
+Museum of New Mexico, Museum of Indian Arts and Culture	779	279	26%
+Univ. of Michigan	773	904	54%
+Auburn Univ.	762	7	1%
+Univ. of Illinois, Urbana-Champaign	761	190	20%
+Dept. of Agriculture	721	5,856	89%
+Virginia Dept. of Historic Resources	711	169	19%
+Carnegie Museum of Natural History	647	105	14%
+Univ. of North Carolina at Chapel Hill	645	440	41%
+Univ. of New Mexico	583	844	59%
+Univ. of Georgia	568	122	18%
+Mississippi Dept. of Archives and History	551	496	47%
+New York State Museum	515	638	55%
+Florida State Univ.	508	92	15%
+Nassau County Dept. of Parks and Recreation	482	29	6%
+Cincinnati Museum Center	456	73	14%
+Yale Univ.	448	420	48%
+Dayton Museum of Natural History	438	1	0%
+Cleveland Museum of Natural History	438	0	0%
+Natural History Museum of Utah	416	67	14%
+Univ. of Pennsylvania	397	234	37%
+West Virginia Department of Arts, Culture and History	371	1,031	74%
+West Texas A and M Univ.	362	0	0%
+San Francisco State Univ.	357	255	42%
+Univ. of Kansas	357	115	24%
+Western Kentucky Univ.	351	2	1%
+Tennessee Dept. of Environment and Conservation	342	525	61%
+Los Angeles County Natural History Museum	337	202	37%
+Kansas State Historical Society	305	103	25%
+Missouri Dept. of Natural Resources	301	36	11%
+California Dept. of Parks and Recreation	278	947	77%
+Sonoma State Univ.	267	320	55%
+Museum of Texas Tech Univ.	263	123	32%
+North Carolina Office of State Archaeology	259	23	8%
+Univ. of Louisville	259	16	6%
+Gilcrease Museum	255	354	58%
+Ball State Univ.	240	29	11%
+Univ. of Texas at San Antonio	236	61	21%
+Indiana State Univ.	232	0	0%
+Wisconsin Historical Society	227	804	78%
+Univ. of South Carolina, SCIAA	205	63	24%
+Mississippi State Univ.	196	179	48%
+Missouri Dept. of Transportation	196	0	0%
+Univ. of Alaska Museum of the North	191	33	15%
+Maryland Historical Trust	190	0	0%
+Univ. of Toledo	187	241	56%
+Pennsylvania Western Univ., California	183	0	0%
+Univ. of California, Davis	167	270	62%
+Univ. of Cincinnati	166	0	0%
+East Carolina Univ.	152	69	31%
+Beloit College	147	224	60%
+Univ. of Arkansas	143	3,270	96%
+SUNY Univ. at Buffalo	143	34	19%
+Univ. of South Florida	142	100	41%
+Cal. State, Long Beach	140	275	66%
+Idaho State Historical Society, Archaeological Survey of Idaho	136	1	1%
+Univ. of Louisiana at Monroe	135	0	0%
+Graves Museum of Archaeology and Natural History	131	0	0%
+Georgia Dept. of Natural Resources	130	407	76%
+Univ. of Wisconsin, Oshkosh	130	55	30%
+Autry Museum of the American West	123	76	38%
+North Museum of Nature and Science	120	0	0%
+Rochester Museum and Science Center	114	1,548	93%
+Texas State Univ.	114	7	6%
+Hawaii Dept. of Land and Natural Resources	114	0	0%
+Cal. State, Chico	112	547	83%
+Temple Univ.	112	9	7%
+Los Angeles County	103	0	0%
+Utah Dept. of Natural Resources	99	37	27%
+Western Reserve Historical Society	99	0	0%
+Wake Forest Univ., Archeology Labs	98	0	0%
+Sarasota County History Center	93	0	0%
+Brown Univ.	90	22	20%
+Earlham College	89	2	2%
+California Dept. of Transportation	88	836	90%
+Minnesota Indian Affairs Council	86	1,915	96%
+Univ. of Memphis	85	553	87%
+Filoli Center	85	0	0%
+Univ. of Wyoming	83	144	63%
+New York Univ.	82	163	67%
+Brigham Young Univ.	81	47	37%
+Charleston Museum	78	2	3%
+Indiana State Museum and Historic Sites Corporation	77	106	58%
+San Diego State Univ.	76	54	42%
+Oshkosh Public Museum	74	5	6%
+Allen County Museum and Historical Society	73	0	0%
+Univ. of Rhode Island	72	5	6%
+Buffalo Museum of Science	72	0	0%
+Museum of Northern Arizona	70	89	56%
+Bowers Museum	70	1	1%
+Tioga Point Museum	70	0	0%
+Robert S. Peabody Institute of Archaeology	67	2,222	97%
+Cal. State, Easy Bay	66	0	0%
+Southern Utah Univ. Archeological Repository	64	0	0%
+Oregon State Univ.	63	147	70%
+South Dakota State Historical Society, State Archaeological Research Center	63	143	69%
+Lawrence Univ.	62	0	0%
+Trinidad State Junior College	62	0	0%
+Univ. of South Alabama	60	9	13%
+Southeast Missouri State Univ.	59	0	0%
+Neville Public Museum	55	53	49%
+Central Washington Univ.	53	322	86%
+Grand Rapids Public Museum	53	185	78%
+Museums of Western Colorado	53	0	0%
+Northwestern Univ.	53	0	0%
+Mutter Museum, College of Physicians of Philadelphia	52	9	15%
+Northern Kentucky Univ.	52	0	0%
+Univ. of Minnesota, Duluth	51	0	0%
+Dartmouth College	49	18	27%
+Univ. of Wisconsin, La Crosse	49	0	0%
+Museum of Us	47	500	91%
+Univ. of Texas, El Paso	47	0	0%
+Nevada State Museum	46	40	47%
+Univ. of Indianapolis	46	0	0%
+New Mexico State Univ. Museum	45	288	86%
+Hastings Museum	45	109	71%
+Univ. of Miami	45	0	0%
+South Carolina Dept. of Parks, Recreation, and Tourism	44	0	0%
+New Mexico Highlands Univ.	42	0	0%
+Purdue Univ.	42	0	0%
+Portland State Univ.	41	38	48%
+Witte Museum	40	32	44%
+St. Joseph Museums, Inc.	40	17	30%
+Univ. of Colorado, Denver	40	0	0%
+Western Colorado Univ.	40	0	0%
+Carlsbad Museum	39	6	13%
+Case Western Reserve Univ.	39	5	11%
+Anniston Museum of Natural History	39	2	5%
+Brazos Valley Museum of Natural History	39	0	0%
+Museum of Osteopathic Medicine	39	0	0%
+Cal. State, Northridge	38	0	0%
+History Nebraska	37	799	96%
+Louisiana State Univ.	36	1,211	97%
+Univ. of Southern Mississippi	36	56	61%
+Stanford Univ. Heritage Services	36	12	25%
+San Bernardino County Museum	35	50	59%
+Memphis Pink Palace Museum	35	18	34%
+Cleveland State Univ.	35	1	3%
+Foothill-De Anza Community College District	35	0	0%
+Univ. of Oregon	34	546	94%
+Texas A and M Univ.	33	112	77%
+Wichita State Univ.	33	0	0%
+Eastern Arizona College Foundation	32	0	0%
+Univ. of the Incarnate Word	32	0	0%
+Springfield Science Museum	31	107	78%
+Sul Ross State Univ.	31	0	0%
+Michigan State Historic Preservation Office	30	27	47%
+Univ. of Nebraska State Museum	29	1,992	99%
+Univ. of Iowa	29	1,419	98%
+Oakland Museum of California	28	2	7%
+The History Museum	28	0	0%
+Heidelberg Univ.	27	0	0%
+Cranbrook Institute of Science	26	39	60%
+Houston Museum of Natural Science	26	0	0%
+Wagner Free Institute of Science	26	0	0%
+Western Illinois Univ.	26	0	0%
+Univ. of Montana	25	46	65%
+Univ. of California, Santa Barbara	24	417	95%
+Santa Cruz Museum of Natural History	24	0	0%
+Georgia Southern Univ.	23	0	0%
+Augusta Museum of History	22	0	0%
+Idaho State Univ.	22	0	0%
+State of Alaska Medical Examiner Office	22	0	0%
+Univ. of Missouri, St. Louis	21	0	0%
+Wayne State Univ.	20	92	82%
+Louisiana Dept. of Culture, Recreation, and Tourism	20	11	35%
+Missouri State Univ.	20	0	0%
+No Man's Land Historical Society	20	0	0%
+Tennessee Valley Authority	19	14,134	100%
+East Bay Municipal Utility District	19	31	62%
+Cal. State, Bakersfield	19	14	42%
+Dept. of Energy	19	7	27%
+Kansas City Museum	18	2	10%
+Western Washington Univ.	17	62	78%
+Texas Parks and Wildlife	17	17	50%
+Poverty Point World Heritage Site	17	0	0%
+Louisiana State Exhibit Museum	16	0	0%
+Montana Historical Society	16	0	0%
+Tippecanoe County Historical Association	16	0	0%
+Missouri Historical Society	15	2	12%
+Auburn Univ. at Montgomery	15	0	0%
+Buffalo State College	15	0	0%
+Henry County Historical Society	15	0	0%
+Oregon Historical Society	14	1	7%
+New Harmony Workingmen's Institute	14	0	0%
+Univ. of West Florida	14	0	0%
+Heard Museum	13	35	73%
+Oklahoma Historical Society	12	0	0%
+Spratt-Mead Museum	12	0	0%
+Peabody Essex Museum	11	59	84%
+Montana State Univ., Museum of the Rockies	11	7	39%
+Willamette Univ.	11	5	31%
+Univ. of Nevada, Reno	11	2	15%
+Montana State Univ., Bozeman	11	0	0%
+The Discovery Museum - Science and Space Center	11	0	0%
+Columbus Museum	10	68	87%
+Univ. of Central Missouri	10	6	38%
+San Diego Mesa College	10	0	0%
+Texas Historical Commission	10	0	0%
+Alaska Office of History and Archeology	9	8	47%
+Putnam Museum	9	6	40%
+Discovery Place	9	1	10%
+de Young Museum	9	0	0%
+Ohio Univ.	9	0	0%
+Phillip and Patricia Frost Museum of Science	9	0	0%
+U.S. Environmental Protection Agency	9	0	0%
+Washington Univ.	9	0	0%
+S'edav Va'aki Museum	8	362	98%
+Texas Dept. of Transportation	8	138	95%
+Univ. of Idaho	8	36	82%
+Cal. Polytechnic State Univ., San Luis Obispo	8	0	0%
+Coryell County Sheriff's Dept.	8	0	0%
+Goodhue County Historical Society	8	0	0%
+Speed Art Museum	8	0	0%
+Univ. of Wisconsin, Madison	7	166	96%
+Seton Hall Univ.	7	26	79%
+Kent State Univ.	7	16	70%
+Cal. State, Monterey Bay	7	0	0%
+City of Oxnard	7	0	0%
+Clark County Historical Museum	7	0	0%
+San Mateo County Community College District	7	0	0%
+Univ. of Akron	7	0	0%
+Univ. of Northern Iowa	7	0	0%
+Univ. of Texas Permian Basin	7	0	0%
+Warren County Historical Society	7	0	0%
+Washington State Parks and Recreation Commission	6	24	80%
+Cal. State, Fullerton	6	18	75%
+Filson Historical Society	6	13	68%
+Palmer Foundation for Chiropractic History	6	4	40%
+Univ. of Notre Dame	6	2	25%
+Cal. State, Dominguez Hills	6	0	0%
+Cal. State, Stanislaus	6	0	0%
+Fort Concho NHL	6	0	0%
+Grout Museum of History and Science	6	0	0%
+Kenosha Public Museum	6	0	0%
+Louisiana Dept. of Justice	6	0	0%
+Navajo County Coroner	6	0	0%
+New Jersey State Museum	5	209	98%
+Pennsylvania State Univ.	5	51	91%
+Mercyhurst Univ.	5	12	71%
+Maryland Center for History and Culture	5	3	38%
+Bridgewater College	5	1	17%
+College of Southern Idaho	5	1	17%
+St. Louis Science Center	5	1	17%
+Capital City Museum	5	0	0%
+Hardin County Historical Museums	5	0	0%
+Layland Museum	5	0	0%
+Richmond Museum of History	5	0	0%
+Rocky Ford Historical Museum	5	0	0%
+Triton Museum of Art	5	0	0%
+Fort Lewis College	4	164	98%
+Arizona Museum of Natural History	4	101	96%
+Museum of Natural History and Planetarium	4	14	78%
+Eastern California Museum	4	3	43%
+Buffalo Bill Center of the West	4	2	33%
+Brooklyn Museum	4	1	20%
+Cape Cod Museum of Natural History	4	0	0%
+Columbia College, Yosemite Community College District	4	0	0%
+Goshen College	4	0	0%
+Koshare Indian Museum	4	0	0%
+Southern Oregon Univ.	4	0	0%
+West Valley College	4	0	0%
+Univ. of Wisconsin, Milwaukee	3	85	97%
+Museum of Riverside	3	39	93%
+Utah State Univ.	3	16	84%
+Kingman Museum, Inc.	3	7	70%
+High Desert Museum	3	4	57%
+Madison County Historical Society	3	1	25%
+Aurora Historical Society	3	0	0%
+College of the Ozarks	3	0	0%
+Fort Worth Museum of Science and History	3	0	0%
+Lackawanna Historical Society	3	0	0%
+Louisiana Cultural Heritage Museum	3	0	0%
+Loxahatchee Historical Society	3	0	0%
+Salisbury House	3	0	0%
+Santa Clara Univ.	3	0	0%
+Univ. of Southern Indiana	3	0	0%
+Univ. of California, Los Angeles	2	2,069	100%
+Santa Barbara Museum of Natural History	2	1,049	100%
+Cal. State, Fresno	2	160	99%
+Central Michigan Univ.	2	145	99%
+Univ. of California, Riverside	2	41	95%
+Marshall Univ.	2	38	95%
+Broome County Historical Society	2	11	85%
+Klamath County Museum	2	10	83%
+Stamford Museum and Nature Center	2	8	80%
+Alaska State Museum	2	5	71%
+Hartwick College	2	4	67%
+Shiloh Museum of Ozark History	2	4	67%
+Kalamazoo Valley Museum	2	3	60%
+Indiana Univ. of Pennsylvania	2	2	50%
+Johnson-Humrickhouse Museum	2	2	50%
+Alma College	2	1	33%
+Artesia Historical Museum and Art Center	2	1	33%
+Chemung County Historical Society	2	1	33%
+McWane Science Center	2	1	33%
+City of Oakland Rotary Nature Center	2	0	0%
+Fellow-Reeve Museum of History and Science	2	0	0%
+Maine Historical Society	2	0	0%
+Pima Community College, Centre for Archaeological Field Training	2	0	0%
+Rutgers Univ.	2	0	0%
+Rutgers Univ.	2	0	0%
+Sharlot Hall Museum	2	0	0%
+Stuhr Museum of the Prairie Pioneer	2	0	0%
+The Heritage Museum of the Texas Hill Country	2	0	0%
+Univ. of Tennessee, Chattanooga	2	0	0%
+Washington County Historical Society	2	0	0%
+Western New Mexico Univ. Museum	2	0	0%
+Worcester Historical Museum	2	0	0%
+Cal. State, Sacramento	1	1,707	100%
+Univ. of Alaska, Anchorage	1	126	99%
+Univ. of Tulsa	1	51	98%
+Colgate Univ.	1	41	98%
+Univ. of the Pacific	1	32	97%
+Northwestern State Univ. of Louisiana	1	11	92%
+Dept. of Justice	1	9	90%
+Raymond M. Alf Museum of Paleontology	1	8	89%
+Saint Martin's Univ. Waynick Museum	1	8	89%
+Minnesota Historical Society	1	4	80%
+New Hampshire Division of Historical Resources	1	4	80%
+Staten Island Institute of Arts and Sciences	1	4	80%
+Cornell Univ.	1	3	75%
+Fort Hays State Univ.	1	2	67%
+Bonanzaville	1	1	50%
+Mabee-Gerrer Museum of Art	1	1	50%
+Morris Museum	1	1	50%
+Palo Alto Junior Museum and Zoo	1	1	50%
+Benton County Historical Society	1	0	0%
+Bixby Memorial Library	1	0	0%
+Cass County Historical Society Museum	1	0	0%
+City of Marietta	1	0	0%
+City of Santa Clara, Headen-Inman House	1	0	0%
+Crocker Art Museum	1	0	0%
+Dallas Historical Society	1	0	0%
+Davis and Elkins College	1	0	0%
+Everhart Museum	1	0	0%
+Fairbanks Museum and Planetarium	1	0	0%
+Fort Smith Museum of History	1	0	0%
+Fredericksburg Area Museum	1	0	0%
+Georgetown Univ.	1	0	0%
+Georgia Power	1	0	0%
+Grayson County Frontier Village Museum	1	0	0%
+Hobart and William Smith Colleges	1	0	0%
+Hutchinson County Historical Museum	1	0	0%
+Lane County Historical Museum	1	0	0%
+Meeteetse Museums	1	0	0%
+Miami County Museum	1	0	0%
+Miami-Dade County	1	0	0%
+Newark Museum	1	0	0%
+Oneida County Historical Society	1	0	0%
+Pember Library and Museum	1	0	0%
+Pierce County Medical Examiner's Office	1	0	0%
+Pocumtuck Valley Memorial Association	1	0	0%
+Sullivan County Historical Society, Inc.	1	0	0%
+Tread of Pioneers Museum	1	0	0%
+Univ. of Alabama, Birmingham	1	0	0%
+Univ. of Vermont	1	0	0%
+Wichita County Sherriff's Office	1	0	0%
+Bernice P. Bishop Museum	0	1,636	100%
+History Colorado	0	1,186	100%
+Univ. of Colorado Museum	0	695	100%
+Michigan State Univ.	0	544	100%
+Univ. of California, San Diego	0	486	100%
+San Jose State Univ.	0	479	100%
+Southern Methodist Univ.	0	387	100%
+Catalina Island Museum Society, Inc.	0	369	100%
+Florida Atlantic Univ.	0	336	100%
+Vanderbilt Univ.	0	294	100%
+Univ. of Washington	0	284	100%
+School for Advanced Research	0	263	100%
+State Historical Society of Iowa	0	221	100%
+Fernbank Museum of Natural History	0	217	100%
+Univ. of Minnesota, Twin Cities	0	198	100%
+Salmon Ruins Museum	0	195	100%
+HistoryMiami Museum	0	188	100%
+Univ. of Massachusetts, Amherst	0	186	100%
+Ojai Valley Historical Society and Museum	0	180	100%
+Univ. of Denver	0	170	100%
+Kansas State Univ.	0	166	100%
+Denver Museum of Nature and Science	0	159	100%
+College of William and Mary	0	158	100%
+Arkansas State Univ. Museum	0	157	100%
+Grand Valley State Univ.	0	154	100%
+Arkansas Highway and Transportation Dept.	0	133	100%
+Alabama Dept. of Archives & History	0	115	100%
+Univ. of Nevada, Las Vegas	0	113	100%
+Eastern Washington Univ.	0	107	100%
+Baylor Univ.	0	105	100%
+Rome Historical Society	0	87	100%
+Washington State Univ.	0	83	100%
+Colorado State Univ.	0	79	100%
+Murray State Univ.	0	79	100%
+Western Michigan Univ.	0	79	100%
+Maine State Museum	0	76	100%
+Bishop Museum of Science and Nature	0	68	100%
+Northwest Museum of Arts and Culture	0	64	100%
+Whitman College, Maxey Museum	0	62	100%
+Animas Museum	0	61	100%
+Univ. of North Dakota	0	57	100%
+Gregg County Historical Museum	0	51	100%
+Bess Bower Dunn Museum	0	48	100%
+Alabama Dept. of Transportation	0	45	100%
+Colorado College	0	45	100%
+SUNY, College at Oswego	0	43	100%
+Stephen F. Austin State Univ.	0	42	100%
+Indiana University-Purdue University Fort Wayne-Archaeological Survey	0	38	100%
+Wesleyan Univ.	0	38	100%
+Sydney L. Wright Museum	0	37	100%
+Hamilton County Dept. of Parks and Recreation	0	34	100%
+Indiana Dept. of Natural Resources	0	33	100%
+Pierce College	0	31	100%
+Univ. of Maine	0	31	100%
+Univ. of Northern Colorado	0	31	100%
+Fort Ticonderoga	0	30	100%
+SUNY, Univ. at Albany	0	30	100%
+Univ. of California, Santa Cruz	0	29	100%
+Columbus State Univ.	0	28	100%
+SUNY, Binghamton	0	28	100%
+Univ. of Puget Sound	0	27	100%
+Alutiiq Museum and Archaeological Repository	0	23	100%
+Detroit Institute of Arts	0	23	100%
+Georgia State Univ.	0	23	100%
+State Center Community College District - Fresno City College	0	22	100%
+Jacksonville State Univ.	0	21	100%
+Kutztown Univ. of Pennsylvania	0	21	100%
+Historical Society of Saginaw County	0	20	100%
+Princeton Univ.	0	20	100%
+Fort Collins Museum of Discovery	0	19	100%
+Pittsburg State Univ.	0	19	100%
+San Diego Archaeological Center	0	19	100%
+Science Museum of Minnesota	0	19	100%
+Bruce Museum	0	18	100%
+Los Angeles Pierce College	0	18	100%
+State Center Community College District - Reedly College	0	18	100%
+Univ. of Connecticut	0	17	100%
+Diablo Valley College	0	16	100%
+Lost City Museum	0	16	100%
+Oregon Parks and Recreation Department	0	16	100%
+Dept. of State	0	16	100%
+Arkansas Dept. of Parks and Tourism, Toltec Mounds Archeological Park	0	15	100%
+Carter County Museum	0	15	100%
+Michigan State Police	0	15	100%
+Museum of the American Indian	0	15	100%
+Cochise College	0	14	100%
+Columbia Univ.	0	14	100%
+Pratt Museum	0	14	100%
+Vassar College	0	14	100%
+Antelope Valley College	0	13	100%
+Kikuchi Center, Kaua'i Community College	0	13	100%
+Metropolitan State Univ. of Denver	0	13	100%
+Michigan Dept. of Transportation	0	13	100%
+Washington State Historical Society	0	13	100%
+Indiana Dept. of Transportation	0	12	100%
+Univ. of New Hampshire	0	12	100%
+Weber State Univ.	0	12	100%
+Franklin Pierce University	0	11	100%
+Michigan History Center	0	11	100%
+Univ. of Hawai'i at Hilo	0	11	100%
+Amherst College	0	10	100%
+Culver-Stockton College	0	10	100%
+Dallas Water Utilities	0	10	100%
+Karshner Museum	0	10	100%
+Nevada Historical Society	0	10	100%
+New York State Office of Parks, Recreation and Historic Preservation	0	10	100%
+Allen County Museum, Fort Wayne Historical Society	0	9	100%
+Besser Museum for Northeast Michigan	0	9	100%
+Florida Dept. of Transportation	0	9	100%
+Lakeshore Museum Center	0	9	100%
+Oregon Health & Sciences Univ.	0	9	100%
+Sloan Museum	0	9	100%
+Virginia Commonwealth Univ.	0	9	100%
+American Univ.	0	8	100%
+Chadron State College	0	8	100%
+City of Evansville Water and Sewer Utility	0	8	100%
+City of Larsen Bay	0	8	100%
+County of Nacogdoches	0	8	100%
+Michigan Dept. of Natural Resources	0	8	100%
+Museum of Ojibwa Culture and Marquette Mission Park - City of St. Ignace	0	8	100%
+Northern Arizona Univ.	0	8	100%
+SUNY, New Paltz	0	8	100%
+Toledo Zoological Society	0	8	100%
+Abbe Museum	0	7	100%
+Appalachian State Univ.	0	7	100%
+Coe College	0	7	100%
+Colorado Archaeological Society, Denver Chapter	0	7	100%
+Albuquerque Museum	0	6	100%
+Cal. State, Los Angeles	0	6	100%
+MetroParks of the Toledo Area	0	6	100%
+Placer County Museums	0	6	100%
+Sheboygan County Historical Museum	0	6	100%
+Arizona State Land Dept.	0	5	100%
+Coachella Valley History Museum	0	5	100%
+Douglas County Public Utility District	0	5	100%
+Fruitlands Museums	0	5	100%
+Northern Illinois Univ.	0	5	100%
+Pomona College	0	5	100%
+Rice Univ., Dept. of Anthropology	0	5	100%
+Sul Ross State Univ.	0	5	100%
+Univ. of Virginia	0	5	100%
+Anchorage Museum	0	4	100%
+Berkshire Museum	0	4	100%
+Catholic Univ. of America	0	4	100%
+Colorado Springs Pioneers Museum	0	4	100%
+Dickinson State Univ.	0	4	100%
+Greater Amsterdam School District	0	4	100%
+Historic Westville	0	4	100%
+Idaho Dept. of Transportation	0	4	100%
+Lindsay Wildlife Museum	0	4	100%
+Los Rios Community College District	0	4	100%
+Oberlin College	0	4	100%
+Pacific Lutheran Univ.	0	4	100%
+Seminole Tribe of Florida	0	4	100%
+Syracuse Univ.	0	4	100%
+Valentine Museum	0	4	100%
+Virginia Dept. of Conservation and Recreation, Division of State Parks	0	4	100%
+Wistar Institute	0	4	100%
+Boston Univ.	0	3	100%
+Brooklyn Children's Museum	0	3	100%
+Bryn Mawr College	0	3	100%
+City of Saugatuck	0	3	100%
+Colorado Bureau of Investigation	0	3	100%
+Georgia Dept. of Transportation	0	3	100%
+Kodiak History Museum	0	3	100%
+Madison County Coroner's Office	0	3	100%
+Manchester Historical Society	0	3	100%
+Outagamie County Historical Society	0	3	100%
+Pima County Office of the Medical Examiner	0	3	100%
+Pioneer Historical Society of Bent County	0	3	100%
+Pioneer Museum, Blue Licks Battlefield State Resort Park	0	3	100%
+Plimoth Patuxet Museum	0	3	100%
+Robbins Museum of Archaeology	0	3	100%
+Schiele Museum of Natural History	0	3	100%
+Texarkana Museums System	0	3	100%
+Univ. of San Diego	0	3	100%
+Virginia Living Museum	0	3	100%
+Warren County Cultural and Heritage Commission, Shippen Manor	0	3	100%
+Wasco County Dalles City Museum Commission	0	3	100%
+Arizona Capitol Museum	0	2	100%
+Augusta State Univ.	0	2	100%
+Aurora History Museum and Historic Sites	0	2	100%
+Birmingham Museum of Art	0	2	100%
+Boston Children's Museum	0	2	100%
+Cape Girardeau County Sheriff's Office	0	2	100%
+Chelan County Public Utilities District	0	2	100%
+Children's Museum of Oak Ridge	0	2	100%
+City of Traverse City	0	2	100%
+Columbia Gorge Discovery Center and Museum	0	2	100%
+Cosumnes River College	0	2	100%
+Cumberland Univ.	0	2	100%
+Emory Univ.	0	2	100%
+Evanston History Center	0	2	100%
+Hawai'i Maritime Center	0	2	100%
+Historic Hugeuenot Street	0	2	100%
+John Michael Kohler Arts Center	0	2	100%
+Kamehameha Schools	0	2	100%
+Kentucky Historical Society	0	2	100%
+Kitsap County Coroner's Office	0	2	100%
+Moravian Historical Society	0	2	100%
+Museum of the Great Plains	0	2	100%
+Northwest Christian College	0	2	100%
+Oregon Museum of Science and Industry	0	2	100%
+Pejepscot Historical Society	0	2	100%
+Pilgrim Hall Museum	0	2	100%
+Reading Public Museum	0	2	100%
+SUNY Broome Community College	0	2	100%
+San Bernardino County Sherriff-Coroner	0	2	100%
+San Luis Obispo County Archaeological Society	0	2	100%
+Southern Oregon Historical Society	0	2	100%
+Southwestern College	0	2	100%
+St. Louis County Office of the Medical Examiner	0	2	100%
+State Historical Society of North Dakota	0	2	100%
+Tioga County Historical Society	0	2	100%
+Dept. of Homeland Security	0	2	100%
+Univ. of West Georgia	0	2	100%
+Univ. of Wisconsin, Stevens Point	0	2	100%
+Washington State Dept of Natural Resources	0	2	100%
+Adams State Univ.	0	1	100%
+Arizona State Parks and Trails	0	1	100%
+Athens County Historical Society and Museum	0	1	100%
+Bay County Historical Society	0	1	100%
+Berrien County Sheriff's Office	0	1	100%
+Buffalo Bill Museum and Grave	0	1	100%
+California Academy of Sciences	0	1	100%
+Central Methodist Univ.	0	1	100%
+Charles Whipple Green Museum, George Hail Library	0	1	100%
+Chicago History Museum	0	1	100%
+Clarke Historical Museum	0	1	100%
+Dalton State College	0	1	100%
+Dana Adobe Nipomo Amigos	0	1	100%
+Delta County Historical Society Museum	0	1	100%
+Denver Art Museum	0	1	100%
+Ecotarium	0	1	100%
+Florence Indian Mound Museum	0	1	100%
+Folsom History Museum	0	1	100%
+Fremont County Coroner	0	1	100%
+Geneva Historical Society	0	1	100%
+Gettysburg Foundation	0	1	100%
+History Museum on the Square	0	1	100%
+Kerr County	0	1	100%
+Lambertville Historical Society	0	1	100%
+Library Company of Philadelphia	0	1	100%
+Michigan Technological Univ.	0	1	100%
+Minneapolis Institute of Art	0	1	100%
+Montclair Art Museum	0	1	100%
+Monterey Peninsula College	0	1	100%
+Mount Holyoke College Art Museum	0	1	100%
+Museum of Science Boston	0	1	100%
+Perry County Coroner's Office	0	1	100%
+Port Huron Museum	0	1	100%
+Renton History Museum	0	1	100%
+Rhinelander High School	0	1	100%
+Rhode Island Historical Society	0	1	100%
+SUNY, Potsdam	0	1	100%
+Sabine River Authority of Texas	0	1	100%
+Safety Harbor Museum of Natural History	0	1	100%
+Sandusky Library, Follett House Museum	0	1	100%
+Seneca Falls Historical Society	0	1	100%
+Sierra Mono Museum	0	1	100%
+Sioux City Public Museum	0	1	100%
+St Joseph County Sheriff's Dept.	0	1	100%
+St. Lawrence Univ.	0	1	100%
+Stoddard County Sheriff's Office	0	1	100%
+The Region of Three Oaks Museum	0	1	100%
+Town of Germantown	0	1	100%
+Univ. of Southern California	0	1	100%
+Univ. of North Carolina, Charlotte	0	1	100%
+Wickliffe Mounds State Historic Site	0	1	100%
+Wistariahurst Museum	0	1	100%
