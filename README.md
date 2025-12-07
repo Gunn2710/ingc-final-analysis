@@ -13,6 +13,6 @@ pip install pandas numpy matplotlib statsmodels
 Run
 
 ```bash
-python3 build_nagpra_data.py  # Parse raw data → nagpra_data_full.csv
-python3 script.py             # Analyze & visualize
+python3 build_nagpra_data.py
+python3 script.py
 ```

@@ -18,7 +18,7 @@ df = df.dropna(subset=num_cols)
 df["Total_Remains"] = df["Remains_Not_Made_Available"] + df["Remains_Made_Available"]
 
 # 2. Filter to "large holders" (you can change 200 if you want)
-large = df[df["Remains_Not_Made_Available"] >= 200].copy()
+large = df[df["Remains_Not_Made_Available"] >= 0].copy()
 
 print("Number of large institutions:", len(large))
 
@@ -70,7 +70,6 @@ bin_stats = (
     df.groupby("Size_Bin")
       .agg(
           Count=("Institution", "count"),
-          Mean_Percent_Made=("Percent_Made_Available", "mean"),
           Median_Percent_Made=("Percent_Made_Available", "median")
       )
 )
